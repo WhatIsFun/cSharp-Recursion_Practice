@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Recursion_Practice\bin\Debug\net6.0\cSharp-Recursion_Practice.exe
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Recursion_Practice\bin\Debug\net6.0\cSharp-Recursion_Practice.deps.json
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Recursion_Practice\bin\Debug\net6.0\cSharp-Recursion_Practice.runtimeconfig.json
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Recursion_Practice\bin\Debug\net6.0\cSharp-Recursion_Practice.dll
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Recursion_Practice\bin\Debug\net6.0\cSharp-Recursion_Practice.pdb
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Recursion_Practice\obj\Debug\net6.0\cSharp-Recursion_Practice.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Recursion_Practice\obj\Debug\net6.0\cSharp-Recursion_Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Recursion_Practice\obj\Debug\net6.0\cSharp-Recursion_Practice.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Recursion_Practice\obj\Debug\net6.0\cSharp-Recursion_Practice.AssemblyInfo.cs
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Recursion_Practice\obj\Debug\net6.0\cSharp-Recursion_Practice.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Recursion_Practice\obj\Debug\net6.0\cSharp-Recursion_Practice.dll
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Recursion_Practice\obj\Debug\net6.0\refint\cSharp-Recursion_Practice.dll
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Recursion_Practice\obj\Debug\net6.0\cSharp-Recursion_Practice.pdb
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Recursion_Practice\obj\Debug\net6.0\cSharp-Recursion_Practice.genruntimeconfig.cache
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Recursion_Practice\obj\Debug\net6.0\ref\cSharp-Recursion_Practice.dll
