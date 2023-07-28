@@ -56,8 +56,38 @@
                 return p[0] == p[p.Length - 1] && IsPalindrome(p.Substring(1, p.Length - 2));
             }
 
+            Console.WriteLine("Task 4: Power Of Number");
+            Console.WriteLine("Enter a base number: ");
+            double baseNumber = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Enter a exponent number: ");
+            int exponent = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine(Power(baseNumber,exponent));
+
+            // Task 4: Power Of Number
+            // Write a recursive function to calculate the power of a number.
+            // The function should take two parameters: the base number and the exponent.
+            static double Power(double baseNumber, int exponent)
+            {
+                if (exponent == 0) { return 1; }
+
+                return baseNumber * Power(baseNumber, exponent - 1);
+            }
+
+            Console.WriteLine("Task 5: Sum of Digits");
+            Console.WriteLine("Enter a number: ");
+            int d = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine(SumOfDigits(d));
+            // Task 5: Sum of Digits
+            // Create a recursive function to calculate the sum of the digits of a given number.
+            // For example, if the input is 123, the function should return 6(1 + 2 + 3)
+            static int SumOfDigits(int d)
+            {
+                if (d < 10) { return d; }
+
+                return d % 10 + SumOfDigits(d / 10);
+            }
 
         }
-        
+
     }
 }
